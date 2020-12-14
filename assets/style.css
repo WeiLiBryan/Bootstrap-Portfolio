@@ -23,3 +23,21 @@ body, html {
 p, h1 {
   color: rgba(255, 255, 255, 0.986);
 }
+
+footer {
+  background-color: rgb(0, 0, 0);
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  bottom: 0%;
+  z-index: 1;
+}
+
+#page-footer {
+  background-color: rgb(74, 59, 80);
+  position: fixed;
+  height: 50px;
+  width: 100%;
+  bottom: 0%;
+  z-index: 0;
+}
