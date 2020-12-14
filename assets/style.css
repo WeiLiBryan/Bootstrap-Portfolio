@@ -13,7 +13,7 @@ body, html {
   }
 
   /* Change navbar styling */
-.navbarstyle {
+.navbarstyle p {
     font-size: 30px;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
