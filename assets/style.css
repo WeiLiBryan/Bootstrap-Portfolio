@@ -1,6 +1,21 @@
+/* makes body span whole page */
+body, html {
+    height: 100%;
+  }
+
+/* Background image */
+.bg {
+    background-image: url(./images/BG.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* Change navbar styling */
 .navbarstyle {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    color: white;
+    color: rgba(28, 59, 145, 0.986);
 }
