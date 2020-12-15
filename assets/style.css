@@ -40,3 +40,8 @@ footer {
   width: 100%;
   bottom: 0%;
 }
+
+figure {
+  position: relative;
+  text-align: center;
+}
