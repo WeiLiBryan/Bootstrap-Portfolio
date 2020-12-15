@@ -21,10 +21,10 @@ Item is entirely in HTML and CSS so none needed.
 ![Index](./assets/images/demo/index.png)
 
 ### Contact Page
-![Contact](./assets/images/demo/contact.png)
+![Contact](./assets/images/demo/contact.PNG)
 
 ### Portfolio
-![Portfolio](./assets/images/demo/portfolio.png)
+![Portfolio](./assets/images/demo/portfolio.PNG)
 
 
 ## Deployed Link
