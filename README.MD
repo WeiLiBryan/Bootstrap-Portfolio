@@ -1,6 +1,5 @@
 # William Bryan's Portfolio
-================================
-
+----------------------
 ## Description
 
 Simple portfolio designed for homework 2.
