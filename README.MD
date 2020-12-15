@@ -21,7 +21,7 @@ Item is entirely in HTML and CSS so none needed.
 ![Index](./assets/images/demo/index.png)
 
 ### Contact Page
-![Contact](./assets/images/demo/contact.PNG)
+![Contact](./assets/images/demo/Contact.PNG)
 
 ### Portfolio
 ![Portfolio](./assets/images/demo/portfolio.PNG)
