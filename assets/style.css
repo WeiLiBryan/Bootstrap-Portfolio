@@ -21,7 +21,7 @@ body, html {
     color: rgba(255, 255, 255, 0.986);
 }
 
-p, h1, label {
+p, h1, label, h2{
   color: rgba(255, 255, 255, 0.986);
 }
 
@@ -51,6 +51,11 @@ footer {
 figure {
   position: relative;
   text-align: center;
+}
+
+article a {
+  color: white;
+  font-size: 40px;
 }
 
 @media screen and (max-width: 400px) {
